@@ -1,0 +1,48 @@
+id: AUTONOMOUS-REPOSITORY-NODE-1.0
+common_root:
+  architecture: APΩ
+  ecosystem: HyperAI
+  originator: alpha_prime_omega
+  principle: "Each capable repository may operate as an autonomous node while sharing a common root."
+identity:
+  repository: NguyenCuong1989/vscode-gitlens
+  role: RUNTIME
+  family: HyperAI
+  relation: UNKNOWN
+  canonical: UNKNOWN
+lifecycle:
+  state: UNKNOWN
+capabilities:
+  build: TRUE
+  operate: TRUE
+  provide_service: TRUE
+  create_value: UNKNOWN
+  generate_revenue: UNKNOWN
+  delegate: UNKNOWN
+autonomy:
+  observe: UNKNOWN
+  plan: UNKNOWN
+  execute: UNKNOWN
+  learn: UNKNOWN
+  evolve: UNKNOWN
+network:
+  enabled: UNKNOWN
+  peers: UNKNOWN
+  capability_exchange: UNKNOWN
+  task_delegation: UNKNOWN
+  artifact_exchange: UNKNOWN
+economics:
+  enabled: UNKNOWN
+  value_loop: UNKNOWN
+  revenue_loop: UNKNOWN
+  reinvestment_loop: UNKNOWN
+governance:
+  evidence_required: true
+  provenance_required: true
+  state_must_match_reality: true
+  no_silent_drift: true
+evidence_level: VERIFIED_DISCOVERY
+evidence:
+  - README.md
+  - package.json
+  - src/extension.ts
